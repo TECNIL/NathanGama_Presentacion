@@ -15,12 +15,13 @@
 - Frontend :
 
   ### Desarollo Web
+
   Tengo conocimientos y experiencia desarrollando aplicativos y paginas web usando lenguajes como HTML, CSS y JS
 
   ### Frameworks - Librerias
 
-      - Boostrap
-      - Astro
+  - Astro
+  - Boostrap
 
 - Backed :
 
@@ -47,6 +48,7 @@
   ### Motores de videojuegos
 
   He realizado algun que otro prototipo en:
+
   - Unity
   - RpgMaker
   - Godot
@@ -61,8 +63,10 @@
 
   ### Tecnologias
 
-      *Astro
-      *.Net
+  - .NET
+  - Astro
+  - Unity
+  - Godot
 
 ## Presentacion
 
